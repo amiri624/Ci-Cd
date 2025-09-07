@@ -1,6 +1,6 @@
 # Ci-Cd
 
-### What is CI/CD?
+## What is CI/CD?
 CI/CD stands for Continuous Integration and Continuous Deployment (or Continuous Delivery). It's a set of practices and tools designed to improve the software development process by automating builds, testing, and deployment, enabling you to ship code changes faster and reliably.
 
 - Continuous integration (CI): Automatically builds, tests, and integrates code changes within a shared repository
@@ -15,13 +15,13 @@ Example of a CI/CD pipeline
 
 <img width="832" height="382" alt="image" src="https://github.com/user-attachments/assets/dd0ed2ba-110d-4213-99b5-02825506e399" />
 
-### Continuous delivery vs. continuous deployment
+## Continuous delivery vs. continuous deployment
 When someone says CI/CD, the “CD” they’re referring to is usually continuous delivery, not continuous deployment. What’s the difference? In a CI/CD pipeline that uses continuous delivery, automation pauses when developers push to production. A human—your operations, security, or compliance team—still needs to manually sign off before final release, adding more delays. On the other hand, continuous deployment automates the entire release process. Code changes are deployed to customers as soon as they pass all the required tests.
 
 Continuous deployment is the ultimate example of DevOps automation. That doesn’t mean it’s the only way to do CI/CD, or the “right” way. Since continuous deployment
 relies on rigorous testing tools and a mature testing culture, most software teams start with continuous delivery and integrate more automated testing over time.
 
-### Why CI/CD?
+## Why CI/CD?
 The short answer: Speed. The State of DevOps report found organizations that have “mastered” CI/CD deploy 208 times more often and have a lead time that is 106 times faster than the rest. While faster development is the most well-known benefit of CI/CD, a continuous integration and continuous delivery pipeline enables much more.
 
 - Development velocity: Ongoing feedback allows developers to commit smaller changes more often, versus waiting for one release.
@@ -30,7 +30,7 @@ The short answer: Speed. The State of DevOps report found organizations that hav
 
 - Business growth: Freed up from manual tasks, organizations can focus resources on innovation, customer satisfaction, and paying down technical debt.
 
-### The mindset we carry is that we always want to automate ourselves into a better job. We want to make sure that the task we’re doing manually today becomes mostly automated.
+## The mindset we carry is that we always want to automate ourselves into a better job. We want to make sure that the task we’re doing manually today becomes mostly automated.
 
 Andrew Mulholland, Director of Engineering
 ### Building your CI/CD toolkit
@@ -45,7 +45,7 @@ Teams make CI/CD part of their development workflow with a combination of automa
 
 - Environments: CI/CD tests and deploys code in environments, from where developers build code to where operations teams make applications publicly available. Environments often have their own specific variables and protection rules to meet security and compliance requirements. Learn more about protected environments.
 
-### Example CI/CD workflow
+## Example CI/CD workflow
 
 CI/CD doesn’t have to be complicated, or mean adding a host of tools on top of your current workflow. At mabl, developers deploy to production about 80 times a week using only two CI/CD integrations: The mabl testing suite and GitHub Actions. Here’s how it works. ✨
 
@@ -61,7 +61,7 @@ CI/CD doesn’t have to be complicated, or mean adding a host of tools on top of
 
 5. Approved commits are merged to the main branch for additional tests or deployed to production
 
-### What makes CI/CD successful
+## What makes CI/CD successful
 
 You’ll find different tools and integrations everywhere you look, but effective CI/CD workflows all share the same markers of success.
 
@@ -72,14 +72,14 @@ You’ll find different tools and integrations everywhere you look, but effectiv
 - Security: Automation includes security. With DevSecOps gaining traction, a future-proof CI/CD pipeline has checks in place for code and permissions, and provides a virtual paper trail for auditing failures, security breaches, non-compliance events.
 - Scalability: CI/CD isn't just about automation; it's also about ensuring scalability. A robust CI/CD setup should effortlessly expand with your growing development team and project complexity. This means it can efficiently handle increased workloads as your software development efforts grow, maintaining productivity and efficiency.
 
-### See What's Possible with CI/CD: Real Customer Stories
+## See What's Possible with CI/CD: Real Customer Stories
 See how DevOps teams put continuous automation into practice.
 
 - Blue Yonder: Migrating from internal servers to cloud-based CI/CD. Explore Blue Yonder
 - Plaid: Improving deployment time and developer productivity. Explore Plaid
 - 3M: Breaking down silos with shared tooling and automation. Explore 3M
 
-### What can you do with CI/CD?
+## What can you do with CI/CD?
 Whether you’re ready to dive in or still have questions, we’ve got you covered.
 
 Explore best practices: Explore best practices Learn more
