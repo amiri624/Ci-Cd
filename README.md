@@ -13,3 +13,4 @@ CI/CD comprises of continuous integration and continuous delivery or continuous 
 
 Example of a CI/CD pipeline
 
+<img width="832" height="382" alt="image" src="https://github.com/user-attachments/assets/dd0ed2ba-110d-4213-99b5-02825506e399" />
