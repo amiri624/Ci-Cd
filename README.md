@@ -89,11 +89,7 @@ Get a GitHub demo: See how world-class CI/CD, automation, and security can suppo
 Ask the experts: Build a custom strategy for your business goals in a 1:1 session with GitHub product leaders. Schedule a virtual briefing
 
 Compare DevOps solutions: See how GitHub compares to other DevOps tools and platforms. Learn more
-```bas
-Start building your CI/CD workflow
-Whether you’re ready to dive in or still have questions, we’ve got you covered.
 
-```
 Start building your CI/CD workflow
 Whether you’re ready to dive in or still have questions, we’ve got you covered.
 
