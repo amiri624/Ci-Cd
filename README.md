@@ -63,3 +63,37 @@ CI/CD doesn’t have to be complicated, or mean adding a host of tools on top of
 
 ### What makes CI/CD successful
 
+You’ll find different tools and integrations everywhere you look, but effective CI/CD workflows all share the same markers of success.
+
+- Automation: CI/CD can be done manually—but that’s not the goal. A good CI/CD workflow automates builds, testing, and deployment so you have more time for code, not more tasks to do.
+- Transparency: If a build fails, developers need to be able to quickly assess what went wrong and why. Logs, visual workflow builders, and deeply integrated tooling make it easier for developers to troubleshoot, understand complex workflows, and share their status with the larger team.
+- Speed: CI/CD contributes to your overall DevOps performance, particularly speed. DevOps experts gauge speed using two DORA metrics: Lead time for changes (how quickly commits are made to code in production) and deployment frequency (how often you commit code).
+- Resilience: When used with other approaches like test coverage, observability tooling, and feature flags, CI/CD makes software more resistant to errors. DORA measures this stability by tracking mean time to resolution (how quickly incidents are resolved) and change failure rate (the number of software rollbacks).
+- Security: Automation includes security. With DevSecOps gaining traction, a future-proof CI/CD pipeline has checks in place for code and permissions, and provides a virtual paper trail for auditing failures, security breaches, non-compliance events.
+- Scalability: CI/CD isn't just about automation; it's also about ensuring scalability. A robust CI/CD setup should effortlessly expand with your growing development team and project complexity. This means it can efficiently handle increased workloads as your software development efforts grow, maintaining productivity and efficiency.
+
+### See What's Possible with CI/CD: Real Customer Stories
+See how DevOps teams put continuous automation into practice.
+
+- Blue Yonder: Migrating from internal servers to cloud-based CI/CD. Explore Blue Yonder
+- Plaid: Improving deployment time and developer productivity. Explore Plaid
+- 3M: Breaking down silos with shared tooling and automation. Explore 3M
+
+### What can you do with CI/CD?
+Whether you’re ready to dive in or still have questions, we’ve got you covered.
+
+Explore best practices: Explore best practices Learn more
+
+Get a GitHub demo: See how world-class CI/CD, automation, and security can support your workflow. Request a demo
+
+Ask the experts: Build a custom strategy for your business goals in a 1:1 session with GitHub product leaders. Schedule a virtual briefing
+
+Compare DevOps solutions: See how GitHub compares to other DevOps tools and platforms. Learn more
+```bas
+Start building your CI/CD workflow
+Whether you’re ready to dive in or still have questions, we’ve got you covered.
+
+```
+Start building your CI/CD workflow
+Whether you’re ready to dive in or still have questions, we’ve got you covered.
+
