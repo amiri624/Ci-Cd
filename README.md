@@ -79,7 +79,6 @@ See how DevOps teams put continuous automation into practice.
 
 ## What can you do with CI/CD?
 Whether you’re ready to dive in or still have questions, we’ve got you covered.
-
 Explore best practices: Explore best practices Learn more
 
 Get a GitHub demo: See how world-class CI/CD, automation, and security can support your workflow. Request a demo
