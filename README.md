@@ -1,5 +1,4 @@
 # Ci-Cd
-
 ## What is CI/CD?
 CI/CD stands for Continuous Integration and Continuous Deployment (or Continuous Delivery). It's a set of practices and tools designed to improve the software development process by automating builds, testing, and deployment, enabling you to ship code changes faster and reliably.
 
