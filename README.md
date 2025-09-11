@@ -33,7 +33,6 @@ The short answer: Speed. The State of DevOps report found organizations that hav
 
 Andrew Mulholland, Director of Engineering
 ### Building your CI/CD toolkit
-
 Teams make CI/CD part of their development workflow with a combination of automated process, steps, and tools.
 
 - Version control: CI begins in shared repositories, where teams collaborate on code using version control systems (VCS) like Git. A VCS tracks code changes, simplifies reversions, and supports config as code for managing testing and infrastructure. Learn more about version control
