@@ -29,7 +29,6 @@ The short answer: Speed. The State of DevOps report found organizations that hav
 - Business growth: Freed up from manual tasks, organizations can focus resources on innovation, customer satisfaction, and paying down technical debt.
 
 ## The mindset we carry is that we always want to automate ourselves into a better job. We want to make sure that the task we’re doing manually today becomes mostly automated.
-
 Andrew Mulholland, Director of Engineering
 ### Building your CI/CD toolkit
 Teams make CI/CD part of their development workflow with a combination of automated process, steps, and tools.
