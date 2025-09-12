@@ -9,7 +9,6 @@ CI/CD stands for Continuous Integration and Continuous Deployment (or Continuous
 - Continuous deployment (CD): automatically deploys code changes to customers directly
 
 CI/CD comprises of continuous integration and continuous delivery or continuous deployment. Put together, they form a “CI/CD pipeline”—a series of automated workflows that help DevOps teams cut down on manual tasks.
-
 Example of a CI/CD pipeline
 
 <img width="832" height="382" alt="image" src="https://github.com/user-attachments/assets/dd0ed2ba-110d-4213-99b5-02825506e399" />
